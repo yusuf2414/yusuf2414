@@ -1,11 +1,10 @@
 <h1>Hi 👋, I'm Yusuf Kiwanuka</h1>
-<h3>Numbers tell the story</h3>
+<h3>Numbers tell the story.</h3>
 
-🎯 **About Me**  I build the pipelines and craft the models — turning raw data into real decisions..
+🎯 **About Me** : I build the pipelines and craft the models,turning raw data into real decisions..
 
 ### 🚀 What I'm Up To
 - 📘 Currently learning **Generative AI, Machine Learning, and Survey Statistics**, with a focus on practical applications 
-- 🤝 Looking to collaborate on **ML**, **survey analytics**, or **open-source data tools**  
 - 🧠 Ask me about **Statistical modeling** or **Data storytelling**  
 - 📬 Reach me at: [kiwanuka11@gmail.com](mailto:kiwanuka11@gmail.com)
 
@@ -22,6 +21,7 @@
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.r-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>

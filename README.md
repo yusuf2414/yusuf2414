@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Yusuf Kiwanuka</h1>
 <h3>Numbers tell the story.</h3>
 
-🎯 **About Me** : I build the pipelines and craft the models,turning raw data into real decisions..
+🧑🏿‍💻 **About Me** : I build the pipelines and craft the models,turning raw data into real decisions..
 
 ### 🚀 What I'm Up To
 - 📘 Currently learning **Generative AI, Machine Learning, and Survey Statistics**, with a focus on practical applications 

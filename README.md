@@ -1,33 +1,20 @@
-## Hi there 👋
+<h1>Hi 👋, I'm Yusuf Kiwanuka</h1>
+<h3>Blending Code, Curiosity, and Statistics to Solve Real Problems</h3>
 
-<h1 align="center">Hi 👋, I'm Yusuf Kiwanuka</h1>
-<h3 align="center">Blending Code, Curiosity, and Statistics to Solve Real Problems</h3>
-
----
-
-🎯 **About Me**  
-I'm a data scientist with a strong foundation in **statistics**, passionate about turning complex data into actionable insights. I enjoy building **interactive tools**, exploring **machine learning**, and applying statistical thinking to solve real-world problems — especially in healthcare, survey analytics, and operations.
-
----
+🎯 **About Me**  I build the pipelines and craft the models — turning raw data into real decisions..
 
 ### 🚀 What I'm Up To
-
-- 📘 Currently learning **AI, Machine Learning, and Survey Statistics**, with a focus on practical applications using **R, Python, and SQL**  
-- 🤝 Looking to collaborate on **ML in healthcare**, **survey analytics**, or **open-source data tools**  
-- 🧠 Ask me about **Statistical modeling**, **Shiny apps**, or **Data storytelling**  
+- 📘 Currently learning **Generative AI, Machine Learning, and Survey Statistics**, with a focus on practical applications 
+- 🤝 Looking to collaborate on **ML**, **survey analytics**, or **open-source data tools**  
+- 🧠 Ask me about **Statistical modeling** or **Data storytelling**  
 - 📬 Reach me at: [kiwanuka11@gmail.com](mailto:kiwanuka11@gmail.com)
 
----
-
 ### 🌐 Connect with me
-
 <p align="left">
   <a href="https://linkedin.com/in/yusufkiwanuka" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusuf kiwanuka" height="30" width="40" />
   </a>
 </p>
-
----
 
 ### 🛠️ Languages and Tools
 

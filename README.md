@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Yusuf Kiwanuka</h1>
-<h3>Blending Code, Curiosity, and Statistics to Solve Real Problems</h3>
+<h3>Numbers tell the story</h3>
 
 🎯 **About Me**  I build the pipelines and craft the models — turning raw data into real decisions..
 
